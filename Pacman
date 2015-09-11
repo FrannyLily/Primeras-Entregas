@@ -1,0 +1,4 @@
+size(500,500);
+
+//Pacman - example without PI
+arc(350,50,100,100,0.7854,5.4976);

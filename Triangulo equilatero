@@ -1,4 +1,7 @@
 //Triangulo Equilatero
+
+size(500,500);
+
 //basis
 line(0,400,200,400);
 //middle of basic line

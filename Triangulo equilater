@@ -1,0 +1,17 @@
+//Triangulo Equilatero
+//basis
+line(0,400,200,400);
+//middle of basic line
+point(100,430);
+//60Grade left corner
+arc(0,400,100,100,5.2359,TWO_PI);
+//60grade right corner
+arc(200,400,100,100,PI,4.1887);
+//height - Pytagoras
+line(100,400,100,226.79);
+//60grade top
+arc(100,226.79,100,100,1.0472,2.0944);
+//left line
+line(100,226.79,0,400);
+//right line
+line(100,226.79,200,400);
